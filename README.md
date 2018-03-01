@@ -22,12 +22,12 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - RestEasy http://resteasy.jboss.org/
 - Apache CXF http://cxf.apache.org
 ### GUI frameworks
-- Vaadin
-- GWT
-- ZK
-- Zurb Foundations
+- Vaadin https://vaadin.com/
+- ZK https://www.zkoss.org/
+- Zurb Foundations https://foundation.zurb.com/
 ### Web frameworks
-- Struts
+- GWT http://www.gwtproject.org/
+- Struts https://struts.apache.org/
 ### Utility
 - Google Guava https://github.com/google/guava
 - Apache Commons https://commons.apache.org/
