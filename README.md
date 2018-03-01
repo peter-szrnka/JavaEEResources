@@ -11,8 +11,9 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - Ant http://ant.apache.org/
 ## Useful libraries
 ### Persistence
-- Hibernate
-- EclipseLink
+- Hibernate http://hibernate.org/
+- EclipseLink http://www.eclipse.org/eclipselink/
+- OpenJPA http://openjpa.apache.org/
 ### JAX-WS
 - Metro(reference implementation) https://javaee.github.io/metro-jax-ws/
 - Apache CXF http://cxf.apache.org
@@ -25,6 +26,8 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - Vaadin https://vaadin.com/
 - ZK https://www.zkoss.org/
 - Zurb Foundations https://foundation.zurb.com/
+- Grails https://grails.org/
+- Play 2 https://www.playframework.com/
 ### Web frameworks
 - GWT http://www.gwtproject.org/
 - Struts https://struts.apache.org/
