@@ -14,6 +14,8 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - Hibernate http://hibernate.org/
 - EclipseLink http://www.eclipse.org/eclipselink/
 - OpenJPA http://openjpa.apache.org/
+### Authentication & authorization
+- Apache Shiro https://shiro.apache.org
 ### JAX-WS
 - Metro(reference implementation) https://javaee.github.io/metro-jax-ws/
 - Apache CXF http://cxf.apache.org
