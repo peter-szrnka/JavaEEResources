@@ -55,6 +55,8 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 ## Websites
 - DZone https://dzone.com
 - JavaWorld http://www.javaworld.com
+- Baeldung http://www.baeldung.com/
+- MyKong https://www.mkyong.com/
 ## Online tutorials
 TODO
 
