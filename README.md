@@ -120,3 +120,9 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - Tom EE https://tomee.apache.org/
 - Tomcat http://tomcat.apache.org/
 - Jetty https://www.eclipse.org/jetty/
+
+## Cloud
+- Kubernetes Java client https://github.com/kubernetes-client/java
+
+## Big tech company libs
+- Netflix OSS https://netflix.github.io/
