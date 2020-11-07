@@ -36,6 +36,13 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - Apache Shiro https://shiro.apache.org
 - JAAS (not an implementation) https://hu.wikipedia.org/wiki/Java_Authentication_and_Authorization_Service
 
+## Caching
+- Cache2k https://cache2k.org/
+- Google EhCache https://www.ehcache.org/
+- Google Guava Cache https://github.com/google/guava/wiki/CachesExplained
+- Caffeine https://github.com/ben-manes/caffeine
+- Redis(?) https://redis.io/
+
 ## JAX-WS
 - Metro(reference implementation) https://javaee.github.io/metro-jax-ws/
 - Apache CXF http://cxf.apache.org
