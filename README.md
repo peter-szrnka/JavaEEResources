@@ -24,6 +24,8 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - Hibernate http://hibernate.org/
 - EclipseLink http://www.eclipse.org/eclipselink/
 - OpenJPA http://openjpa.apache.org/
+- Spring Data https://spring.io/projects/spring-data
+- MyBatis https://mybatis.org
 
 ## Job scheduler
 - Quartz http://www.quartz-scheduler.org/
@@ -55,6 +57,11 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 ## Web frameworks
 - GWT http://www.gwtproject.org/
 - Struts https://struts.apache.org/
+
+## Document generation
+- Apache FOP https://xmlgraphics.apache.org/fop/
+- Jasper Reports https://community.jaspersoft.com/
+- BIRT https://www.eclipse.org/birt/
 
 ## Utility
 - Google Guava https://github.com/google/guava
