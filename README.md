@@ -67,6 +67,7 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - EasyMock http://easymock.org/
 - PowerMock https://github.com/powermock/powermock
 - Arquillian (IT testing) http://arquillian.org/
+- DBUnit http://dbunit.sourceforge.net/
 
 ## Database migration
 - Liquibase http://www.liquibase.org/
