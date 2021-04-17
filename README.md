@@ -125,6 +125,12 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - Tomcat http://tomcat.apache.org/
 - Jetty https://www.eclipse.org/jetty/
 
+## Microservices
+- Quarkus
+- Micronaut
+- Helidon
+- Eclipse Microprofile
+
 ## Cloud
 - Kubernetes Java client https://github.com/kubernetes-client/java
 
