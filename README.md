@@ -57,6 +57,16 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - RestEasy http://resteasy.jboss.org/
 - Apache CXF http://cxf.apache.org
 
+## REST clients
+- OpenFeign
+- Retrofit2 (for Android)
+
+## Object mapping
+- Jackson https://github.com/FasterXML/jackson
+- Gson https://github.com/google/gson
+- Moshi https://github.com/square/moshi
+- org.json
+
 ## GUI & UI frameworks
 - Vaadin https://vaadin.com/
 - ZK https://www.zkoss.org/
@@ -132,6 +142,7 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - Eclipse Microprofile
 
 ## Cloud
+- Spring Cloud Function https://spring.io/projects/spring-cloud-function
 - Kubernetes Java client https://github.com/kubernetes-client/java
 
 ## Big tech company libs
