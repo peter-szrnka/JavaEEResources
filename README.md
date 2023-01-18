@@ -61,6 +61,10 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - OpenFeign
 - Retrofit2 (for Android)
 
+## Circuit breaker
+- Hystrix
+- Resilience4j
+
 ## Object mapping
 - Jackson https://github.com/FasterXML/jackson
 - Gson https://github.com/google/gson
