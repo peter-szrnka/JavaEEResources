@@ -61,9 +61,10 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - OpenFeign
 - Retrofit2 (for Android)
 
-## Circuit breaker
-- Hystrix
-- Resilience4j
+## Circuit breaker & retry
+- Resilience4j https://resilience4j.readme.io/
+- Hystrix (no longer maintained)
+- Spring Retry
 
 ## Object mapping
 - Jackson https://github.com/FasterXML/jackson
