@@ -141,13 +141,14 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - Jetty https://www.eclipse.org/jetty/
 
 ## Microservices
-- Quarkus
-- Micronaut
-- Helidon
-- Eclipse Microprofile
+- Quarkus https://quarkus.io/
+- Micronaut https://micronaut.io/
+- Helidon https://helidon.io/
+- Eclipse Microprofile https://microprofile.io/
 
 ## Cloud
 - Spring Cloud Function https://spring.io/projects/spring-cloud-function
+- Spring Cloud Config https://docs.spring.io/spring-cloud-config/docs/current/reference/html/ 
 - Kubernetes Java client https://github.com/kubernetes-client/java
 
 ## Big tech company libs
