@@ -7,6 +7,9 @@ A collection of useful Java EE based resources, websites, libraries, etc.
 - Apache NetBeans https://netbeans.apache.org/
 - Visual Studio Code https://code.visualstudio.com/
 
+## AI
+- Spring AI https://spring.io/projects/spring-ai
+
 ## Project management tool
 - Maven http://maven.apache.org/
 - Gradle https://gradle.org/
